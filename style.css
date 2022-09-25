@@ -1,0 +1,40 @@
+.Aboutyou{
+    margin:3px;
+    display: grid;
+    grid-template-columns: 75% 25%;
+    column-gap: 5px;
+}
+
+img {
+    width: 500px;
+    height: 600px;
+  }
+
+p{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: larger;
+    font-style: initial;
+    
+} 
+
+.Projects{
+    text-align: center;
+}
+
+.Skills{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size: larger;
+    font-style: initial;
+}
+
+.form{
+    margin:3px;
+    display: grid;
+    grid-template-columns: 75%;
+    column-gap: 5px;
+}
+
